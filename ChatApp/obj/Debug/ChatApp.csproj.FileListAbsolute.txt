@@ -1,0 +1,7 @@
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\akhullar\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache

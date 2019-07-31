@@ -1,0 +1,7 @@
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\bin\Debug\ChatAppReturns.exe.config
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\bin\Debug\ChatAppReturns.exe
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\bin\Debug\ChatAppReturns.pdb
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\obj\Debug\ChatAppReturns.csprojResolveAssemblyReference.cache
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\obj\Debug\ChatAppReturns.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\obj\Debug\ChatAppReturns.exe
+C:\Users\akhullar\source\repos\ChatApp\ChatAppReturns\obj\Debug\ChatAppReturns.pdb
